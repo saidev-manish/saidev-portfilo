@@ -1,0 +1,34 @@
+{
+  "id": 1048359388,
+  "local_dir": "C:\\Users\\Manish\\OneDrive\\Desktop\\portfilo",
+  "node_id": "R_kgDOPnyx3A",
+  "name": "saidev-portfilo",
+  "full_name": "saidev-manish/saidev-portfilo",
+  "description": "saidev-portfilo - A project that does awesome things",
+  "private": false,
+  "html_url": "https://github.com/saidev-manish/saidev-portfilo",
+  "owner": {
+    "login": "saidev-manish",
+    "id": 191196151,
+    "node_id": "U_kgDOC2Vr9w",
+    "avatar_url": "https://avatars.githubusercontent.com/u/191196151?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/saidev-manish",
+    "html_url": "https://github.com/saidev-manish",
+    "followers_url": "https://api.github.com/users/saidev-manish/followers",
+    "following_url": "https://api.github.com/users/saidev-manish/following{/other_user}",
+    "gists_url": "https://api.github.com/users/saidev-manish/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/saidev-manish/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/saidev-manish/subscriptions",
+    "organizations_url": "https://api.github.com/users/saidev-manish/orgs",
+    "repos_url": "https://api.github.com/users/saidev-manish/repos",
+    "events_url": "https://api.github.com/users/saidev-manish/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/saidev-manish/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "branches": [
+    "main"
+  ]
+}
