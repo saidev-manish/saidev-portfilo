@@ -44,6 +44,7 @@ export default function Home() {
           </p>
           <div className="flex gap-4">
             <a
+            
               href="#projects"
               className="px-6 py-3 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-xl shadow-lg hover:opacity-90 transition"
             >
@@ -63,21 +64,17 @@ export default function Home() {
           initial={{ scale: 0.9, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ duration: 0.7 }}
-          className="flex justify-center md:justify-end"
+          className="flex justify-center"
         >
           <div className="w-64 h-64 lg:w-72 lg:h-72 rounded-full p-[5px] bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 shadow-2xl">
-            <div className="w-full h-full rounded-full overflow-hidden border-[5px] border-gray-900"
-            style={{
-              background:'url(/hero.jpg)'
-            }}
-            >
-              {/* ✅ Make sure hero.jpg is inside /public */}
+            <div className="w-full h-full rounded-full overflow-hidden border-[5px] border-gray-900">
+              {/* ✅ Make sure sai.jpg is inside /public */}
               <Image
-                src="/hero.jpg"
+                src="/sai.jpg"
                 alt="Profile"
                 width={288}
                 height={288}
-                className="object-cover -translate-y-2 translate-x-2 rounded-full"
+                className="object-cover rounded-full w-full h-full"
                 priority // ✅ loads immediately for performance
               />
             </div>
@@ -113,7 +110,7 @@ export default function Home() {
             {
               title: "Student Engagement",
               desc: "Enhancing student engagement through interactive tools and resources.",
-              img: "/project1.jpg",
+              img: "/stu.jpg",
             },
             {
               title: "Portfolio Website",
