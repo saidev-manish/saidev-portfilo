@@ -112,11 +112,17 @@ export default function Home() {
               desc: "Enhancing student engagement through interactive tools and resources.",
               img: "/stu.jpg",
             },
+             {
+              title: "SIH 2025",
+              desc: "Title-Smart Tourist Safety Monitoring & Incident Response System using Blockchain & Geo-fencing Technology",
+              img: "/SIH.png",
+            },
             {
               title: "Portfolio Website",
               desc: "This site itself — built with React, Tailwind, and Framer Motion.",
               img: "/project3.png",
             },
+            
           ].map((project) => (
             <motion.div
               key={project.title}
